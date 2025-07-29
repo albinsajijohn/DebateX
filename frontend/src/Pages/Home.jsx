@@ -37,7 +37,7 @@ function Home() {
 
   return (
     <div style={styles.container}>
-      <h2>React Calculator</h2>
+      <h2 style={{ color: 'orange' }}>ARYA's CALCULATOR</h2>
       <input
         type="number"
         value={num1}
