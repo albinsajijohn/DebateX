@@ -3,6 +3,12 @@ import React from 'react';
 function Home() {
   return (
     <div>
+      <h1>Hello Dude</h1>
+      <h1>Haiiiiii</h1>
+      <h3>Offended aaayi njaaan</h3>
+      <h1>Ningada project njn deelet cheyum</h1>
+      <h1>Hi iam gopz</h1>
+     
       <h1>aaaabllin</h1>
     </div>
   );
