@@ -8,6 +8,7 @@ function Home() {
       <h3>Offended aaayi njaaan</h3>
       <h1>Ningada project njn deelet cheyum</h1>
       <h1>hiiii</h1>
+      <h1>O mmamam chandhaamama mamama</h1>
     </div>
   );
 }
