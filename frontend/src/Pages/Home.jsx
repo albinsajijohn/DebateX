@@ -8,6 +8,7 @@ function Home() {
       <h3>Offended aaayi njaaan</h3>
       <h1>Ningada project njn deelet cheyum</h1>
       <h1>Hi iam gopz</h1>
+      <h1>Arya offedne</h1>
      
       <h1>aaaabllin</h1>
     </div>
