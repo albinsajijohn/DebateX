@@ -7,6 +7,7 @@ function Home() {
       <h1>Haiiiiii</h1>
       <h3>Offended aaayi njaaan</h3>
       <h1>Ningada project njn deelet cheyum</h1>
+      <h1>hiiii</h1>
     </div>
   );
 }
